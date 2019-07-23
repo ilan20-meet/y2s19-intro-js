@@ -1,4 +1,4 @@
-var color = prompt("What's your favourite colour?");
+var colour = prompt("What's your favourite colour?");
 if (colour == "purple")
 {
 	alert("very nice");
